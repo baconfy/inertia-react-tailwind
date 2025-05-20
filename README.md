@@ -21,7 +21,7 @@ applications efficiently.
 ## Installation
 
 ```bash
-composer require your-vendor/your-package-name
+composer require baconfy/inertia-react-tailwind
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ composer require your-vendor/your-package-name
 2. Publish the configuration files:
 
 ```bash
-php artisan vendor:publish --tag=your-package-name-config
+php artisan vendor:publish --tag=inertia-react-tailwind
 ```
 
 3. Start using the bundled features in your project.
